@@ -68,3 +68,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Autor
 
 HILTON BILL CABALLERO HUAMANI
+
+##
+Modificaciones Giussepe
